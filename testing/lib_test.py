@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 
+
+# from lib.testing.list_comprehension import return_evens, make_exclamation
 from list_comprehension import return_evens, make_exclamation
+
 
 class TestReturnEvens:
     '''function return_evens()'''
